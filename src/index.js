@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const classicCadence = {
   1: "Ab",
   4: "Db",
